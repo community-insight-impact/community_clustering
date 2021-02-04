@@ -15,4 +15,4 @@ Below image shows classification report for clustering with 4 different clusters
 
 *Note For more detauls and future tasks , Please have a look at the report.
 
-![Report](https://docs.google.com/document/d/1-B7UhoqtiWot8Nsn-yXmEL4q5ZBQ3GhHWzt29ip_hM0/edit?usp=sharing)
+[Report](https://docs.google.com/document/d/1-B7UhoqtiWot8Nsn-yXmEL4q5ZBQ3GhHWzt29ip_hM0/edit?usp=sharing)
