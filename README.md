@@ -9,13 +9,7 @@
 
 ![Clusters](https://github.com/community-insight-impact/community_clustering/blob/main/Clustering%20Notebooks/Combined_Scores/pca.png?raw=true)
 
-# Some of the features of individual clusters are:
 
-### Cluster 1: 
-
-### Cluster 2: 
-
-### Cluster 3: 
 
 
 
